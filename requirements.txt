@@ -1,0 +1,8 @@
+pystyle
+tiktok-bot
+selenium
+colorama
+pyfiglet
+bs4
+requests
+mechanize
